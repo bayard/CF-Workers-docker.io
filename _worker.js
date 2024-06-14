@@ -79,6 +79,7 @@ async function nginx() {
 	
 	<p><em>Thank you for using nginx.</em></p>
 	</body>
+ 	<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "801f31979c5d416ea71105e548915fa9"}'></script><!-- End Cloudflare Web Analytics -->
 	</html>
 	`
 	return text ;
